@@ -1,0 +1,3281 @@
+{
+  "guid": "Ml2XwFMRA0vU",
+  "title": "🖥️",
+  "index": 9,
+  "dateAdded": 1619861142000000,
+  "lastModified": 1700284732814000,
+  "id": 315,
+  "typeCode": 2,
+  "type": "text/x-moz-place-container",
+  "children": [
+    {
+      "guid": "JRqfSU7MgaFE",
+      "title": "ASM",
+      "index": 0,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1686227103611000,
+      "id": 316,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "8hYgR0k-xn93",
+          "title": "Introduction to x64 Assembly",
+          "index": 0,
+          "dateAdded": 1597432591000000,
+          "lastModified": 1659590912000000,
+          "id": 317,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html"
+        },
+        {
+          "guid": "zNmsRfeWMHsH",
+          "title": "X86 Assembly/Interfacing with Linux - Wikibooks, open books for an open world",
+          "index": 1,
+          "dateAdded": 1597660338000000,
+          "lastModified": 1659590912000000,
+          "id": 318,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://en.wikibooks.org/wiki/X86_Assembly/Interfacing_with_Linux#syscall_2"
+        },
+        {
+          "guid": "V01jbkoAB6-X",
+          "title": "The GNU Assembler",
+          "index": 2,
+          "dateAdded": 1597661432000000,
+          "lastModified": 1659590912000000,
+          "id": 319,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://tigcc.ticalc.org/doc/gnuasm.html"
+        },
+        {
+          "guid": "nyuFPxq49wYr",
+          "title": "https://riscv-programming.org/book/riscv-book.html",
+          "index": 3,
+          "dateAdded": 1648540831551000,
+          "lastModified": 1650186171000000,
+          "id": 493,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://riscv-programming.org/book/riscv-book.html"
+        },
+        {
+          "guid": "x6e0PYpOG6cy",
+          "title": "STM32 Mainstream Microcontrollers (MCUs) - STMicroelectronics",
+          "index": 4,
+          "dateAdded": 1685519006247000,
+          "lastModified": 1685519006247000,
+          "id": 683,
+          "typeCode": 1,
+          "iconUri": "https://www.st.com/etc/clientlibs/st-site/media/app/images/favicon-32.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.st.com/en/microcontrollers-microprocessors/stm32-mainstream-mcus.html"
+        },
+        {
+          "guid": "UO4Bsp1-69Ok",
+          "title": "Top (Using as)",
+          "index": 5,
+          "dateAdded": 1686227103611000,
+          "lastModified": 1686227103611000,
+          "id": 692,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://sourceware.org/binutils/docs-2.40/as/index.html"
+        }
+      ]
+    },
+    {
+      "guid": "wDEIQ9gGGKkr",
+      "title": "Android",
+      "index": 1,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1671715133771000,
+      "id": 320,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "EEAmChgO9gGL",
+          "title": "Set Up Google Play Services SDK | Android Developers",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 321,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://developer.android.com/google/play-services/setup.html"
+        },
+        {
+          "guid": "gHvlT6tEYi3r",
+          "title": "Banners I - Google Mobile Ads SDK — Google Developers",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 322,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://developers.google.com/mobile-ads-sdk/docs/admob/fundamentals"
+        },
+        {
+          "guid": "z7T71e4bxF3K",
+          "title": "Publishing Hangout Apps - Google+ Hangouts API — Google Developers",
+          "index": 2,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 323,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://developers.google.com/+/hangouts/publishing#types"
+        },
+        {
+          "guid": "1VqGAkw-1AOx",
+          "title": "Fossdroid: Free and open source Android applications",
+          "index": 3,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 324,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://fossdroid.com/"
+        },
+        {
+          "guid": "wkfecEgFbmO-",
+          "title": "XDA-Developers Android Forums",
+          "index": 4,
+          "dateAdded": 1552483553000000,
+          "lastModified": 1659590912000000,
+          "id": 325,
+          "typeCode": 1,
+          "iconUri": "https://www.xda-developers.com/public/build/images/favicon-240x240.43161a66.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.xda-developers.com/"
+        },
+        {
+          "guid": "626bluktvIBt",
+          "title": "Developer Dashboard - Chrome Web Store",
+          "index": 5,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 326,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://chrome.google.com/webstore/developer/dashboard"
+        }
+      ]
+    },
+    {
+      "guid": "o_MppYDOwgWg",
+      "title": "ARM",
+      "index": 2,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1685519027050000,
+      "id": 327,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "zqsq-obBbZyQ",
+          "title": "mbed NXP LPC1768 - Handbook | mbed",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 328,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://mbed.org/handbook/mbed-NXP-LPC1768"
+        },
+        {
+          "guid": "D7yy7CRceaSP",
+          "title": "LPC1769/68/67/66/65/64/63 32-bit ARM Cortex-M3 microcontroller; up to 512 kB flash and 64 kB SRAM with Ethernet, USB 2.0 Host/Device/OTG, CAN - LPC1769_68_67_66_65_64_63.pdf",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 329,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.nxp.com/documents/data_sheet/LPC1769_68_67_66_65_64_63.pdf"
+        },
+        {
+          "guid": "cFH11rqu6Rht",
+          "title": "UM10360 LPC176x/5x User manual - UM10360.pdf",
+          "index": 2,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 330,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.nxp.com/documents/user_manual/UM10360.pdf"
+        },
+        {
+          "guid": "YJ2UdzmiPzLp",
+          "title": "Assembly Language - Cookbook | mbed",
+          "index": 3,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 331,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://mbed.org/cookbook/Assembly-Language"
+        },
+        {
+          "guid": "zZw6HCSa7IW5",
+          "title": "STM32Trust - Security functions - STMicroelectronics",
+          "index": 4,
+          "dateAdded": 1685519015045000,
+          "lastModified": 1685519015045000,
+          "id": 684,
+          "typeCode": 1,
+          "iconUri": "https://www.st.com/etc/clientlibs/st-site/media/app/images/favicon-32.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.st.com/content/st_com/en/ecosystems/stm32trust/security-functions.html"
+        },
+        {
+          "guid": "jgiNzWDTTzAt",
+          "title": "Resources to develop embedded security with TrustZone - Architectures and Processors blog - Arm Community blogs - Arm Community",
+          "index": 5,
+          "dateAdded": 1685519027050000,
+          "lastModified": 1685519027050000,
+          "id": 685,
+          "typeCode": 1,
+          "iconUri": "https://community.arm.com/cfs-file/__key/themefiles/tc-s-39888112961743d6b482debae733b37d-00000000000000000000000000000000-favicon/arm_2D00_icon_2D00_256x256.png",
+          "type": "text/x-moz-place",
+          "uri": "https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/links-to-a-set-of-technical-documents-regarding-trustzone-for-armv8_2d00_m"
+        }
+      ]
+    },
+    {
+      "guid": "4t-jJ9ilAaGl",
+      "title": "AWK",
+      "index": 3,
+      "dateAdded": 1673175065681000,
+      "lastModified": 1679165864552000,
+      "id": 586,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "z59f20Er1654",
+          "title": "The GNU Awk User’s Guide",
+          "index": 0,
+          "dateAdded": 1673175079967000,
+          "lastModified": 1673175079967000,
+          "id": 587,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.gnu.org/software/gawk/manual/gawk.html#Array-Basics"
+        }
+      ]
+    },
+    {
+      "guid": "hFU-gPDRtLvQ",
+      "title": "Blockchain",
+      "index": 4,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1679168370128000,
+      "id": 332,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "ZQNA-IT5D2R6",
+          "title": "ethereumbook/ethereumbook: Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+          "index": 0,
+          "dateAdded": 1603002726000000,
+          "lastModified": 1659590912000000,
+          "id": 335,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/ethereumbook/ethereumbook"
+        },
+        {
+          "guid": "wPzzOcUVOa-B",
+          "title": "LedgerHQ/rust-app: A demo Rust app using the UI and SDK as crates.",
+          "index": 1,
+          "dateAdded": 1604259327000000,
+          "lastModified": 1659590912000000,
+          "id": 336,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/LedgerHQ/rust-app"
+        },
+        {
+          "guid": "xzVe9CJ5aCTw",
+          "title": "High-level Overview | Cosmos SDK",
+          "index": 2,
+          "dateAdded": 1604922214000000,
+          "lastModified": 1659590912000000,
+          "id": 337,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://docs.cosmos.network/v0.40/intro/overview.html"
+        },
+        {
+          "guid": "63IkFKvoTGv5",
+          "title": "The Beacon Chain Ethereum 2.0 explainer you need to read first | ethos.dev",
+          "index": 3,
+          "dateAdded": 1605987612000000,
+          "lastModified": 1659590912000000,
+          "id": 338,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ethos.dev/beacon-chain/"
+        },
+        {
+          "guid": "zKMSz0j_jh8u",
+          "title": "Ethereum development documentation | ethereum.org",
+          "index": 4,
+          "dateAdded": 1610698937000000,
+          "lastModified": 1659590912000000,
+          "id": 339,
+          "typeCode": 1,
+          "iconUri": "https://ethereum.org/icons/icon-512x512.png?v=8b512faa8d4a0b019c123a771b6622aa",
+          "type": "text/x-moz-place",
+          "uri": "https://ethereum.org/en/developers/docs/"
+        }
+      ]
+    },
+    {
+      "guid": "hhDB72mrY_3y",
+      "title": "C",
+      "index": 5,
+      "dateAdded": 1676275345319000,
+      "lastModified": 1685739726064000,
+      "id": 593,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "-YRKe0iuHK_L",
+          "title": "style(9) - OpenBSD manual pages",
+          "index": 0,
+          "dateAdded": 1676275357466000,
+          "lastModified": 1676275357466000,
+          "id": 594,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://man.openbsd.org/style"
+        },
+        {
+          "guid": "3IuU6dZAVVFZ",
+          "title": "If You Must Learn C",
+          "index": 1,
+          "dateAdded": 1679165850927000,
+          "lastModified": 1679165864552000,
+          "id": 604,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://cs.uwaterloo.ca/%7Eplragde/flaneries/IYMLC/"
+        },
+        {
+          "guid": "yshCM3lrPeFd",
+          "title": "Minimalist C Libraries",
+          "index": 2,
+          "dateAdded": 1680181792038000,
+          "lastModified": 1680181792038000,
+          "id": 610,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://nullprogram.com/blog/2018/06/10/"
+        },
+        {
+          "guid": "yvkCNb-j5MsP",
+          "title": "C Help and Discussion - InstallGentoo Wiki",
+          "index": 3,
+          "dateAdded": 1680265642217000,
+          "lastModified": 1680265642217000,
+          "id": 611,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://wiki.installgentoo.com/wiki/C_Help_and_Discussion"
+        },
+        {
+          "guid": "40ERbX4sLQR0",
+          "title": "comp.lang.c Frequently Asked Questions",
+          "index": 4,
+          "dateAdded": 1680265743903000,
+          "lastModified": 1680265743903000,
+          "id": 612,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://c-faq.com/"
+        },
+        {
+          "guid": "2bkEAGyzC6ot",
+          "title": "Check | Unit testing framework for C",
+          "index": 5,
+          "dateAdded": 1680343322660000,
+          "lastModified": 1680343322660000,
+          "id": 613,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://libcheck.github.io/check/"
+        },
+        {
+          "guid": "QQG9ISYH_T4g",
+          "title": "Check: check.h File Reference",
+          "index": 6,
+          "dateAdded": 1680418990347000,
+          "lastModified": 1680418990347000,
+          "id": 614,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://libcheck.github.io/check/doc/doxygen/html/check_8h.html"
+        },
+        {
+          "guid": "bBpTVh3EvvBW",
+          "title": "cdecl: C gibberish ↔ English",
+          "index": 7,
+          "dateAdded": 1680433576658000,
+          "lastModified": 1680433576658000,
+          "id": 615,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://cdecl.org/"
+        },
+        {
+          "guid": "3FKnvfy8vaVu",
+          "title": "How I program C - YouTube",
+          "index": 8,
+          "dateAdded": 1680709321546000,
+          "lastModified": 1680709321546000,
+          "id": 618,
+          "typeCode": 1,
+          "iconUri": "https://www.youtube.com/s/desktop/932eb6a8/img/favicon_144x144.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.youtube.com/watch?v=443UNeGrFoM"
+        },
+        {
+          "guid": "349jBqYjMR6X",
+          "title": "Some Were Meant for C - onward17-essays2.pdf",
+          "index": 9,
+          "dateAdded": 1680709329086000,
+          "lastModified": 1680709329086000,
+          "id": 619,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://skeeto.s3.amazonaws.com/share/onward17-essays2.pdf"
+        },
+        {
+          "guid": "uRpjzmUJqPEP",
+          "title": "NCurses",
+          "index": 10,
+          "dateAdded": 1680718917659000,
+          "lastModified": 1680718938767000,
+          "id": 621,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "8hWsLVX2jeHW",
+              "title": "NCurses",
+              "index": 0,
+              "dateAdded": 1679241458753000,
+              "lastModified": 1680718927069000,
+              "id": 607,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/printw.html"
+            },
+            {
+              "guid": "VNRD7G0Fs1lD",
+              "title": "A Hacker's Guide to Ncurses Internals",
+              "index": 1,
+              "dateAdded": 1680718894076000,
+              "lastModified": 1680718930708000,
+              "id": 620,
+              "typeCode": 1,
+              "iconUri": "https://invisible-island.net/img/icons/favicon.ico",
+              "type": "text/x-moz-place",
+              "uri": "https://invisible-island.net/ncurses/hackguide.html"
+            }
+          ]
+        },
+        {
+          "guid": "0jIEoPHxlC7Z",
+          "title": "A beginners' guide away from scanf()",
+          "index": 11,
+          "dateAdded": 1680781455304000,
+          "lastModified": 1680781455304000,
+          "id": 623,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html"
+        },
+        {
+          "guid": "KjDfwM1ltee0",
+          "title": "GNU C Language Intro and Reference - Summary [Savannah]",
+          "index": 12,
+          "dateAdded": 1680947691651000,
+          "lastModified": 1680947691651000,
+          "id": 629,
+          "typeCode": 1,
+          "iconUri": "https://savannah.gnu.org/images/Savannah.theme/icon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://savannah.gnu.org/projects/c-intro-and-ref/"
+        },
+        {
+          "guid": "7AJuufj9QfcW",
+          "title": "make",
+          "index": 13,
+          "dateAdded": 1682966287895000,
+          "lastModified": 1682966287895000,
+          "id": 656,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html"
+        },
+        {
+          "guid": "FwxTV0OS7jg3",
+          "title": "Modern CModern C - xeb93p.pdf",
+          "index": 14,
+          "dateAdded": 1684488781067000,
+          "lastModified": 1684488781067000,
+          "id": 675,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://files.catbox.moe/xeb93p.pdf"
+        },
+        {
+          "guid": "PUf5xP2VY-Vv",
+          "title": "Transpile to C example",
+          "index": 15,
+          "dateAdded": 1685739726064000,
+          "lastModified": 1685739734437000,
+          "id": 687,
+          "typeCode": 1,
+          "iconUri": "https://godbolt.org/favicon.ico?v=1",
+          "type": "text/x-moz-place",
+          "uri": "https://godbolt.org/z/Wvzn9GcKv"
+        }
+      ]
+    },
+    {
+      "guid": "EkxN4kcGYQUX",
+      "title": "DevOps",
+      "index": 6,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 352,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "bHZ7dbxUNneT",
+          "title": "Devops with Docker",
+          "index": 0,
+          "dateAdded": 1587367507000000,
+          "lastModified": 1659590912000000,
+          "id": 353,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://devopswithdocker.com/"
+        },
+        {
+          "guid": "iGckN6hWvSCL",
+          "title": "Low End Box - Cheap VPS, Dedicated Servers and Hosting Deals",
+          "index": 1,
+          "dateAdded": 1619533709000000,
+          "lastModified": 1659590912000000,
+          "id": 354,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://lowendbox.com/",
+          "type": "text/x-moz-place",
+          "uri": "https://lowendbox.com/"
+        }
+      ]
+    },
+    {
+      "guid": "w9B12uYN_cun",
+      "title": "Forth",
+      "index": 7,
+      "dateAdded": 1683383070052000,
+      "lastModified": 1686595225204000,
+      "id": 662,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "9AxMdiWBGO9S",
+          "title": "A Brief Introduction to Forth",
+          "index": 0,
+          "dateAdded": 1683383088959000,
+          "lastModified": 1683383088959000,
+          "id": 663,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://users.ece.cmu.edu/~koopman/forth/hopl.html"
+        },
+        {
+          "guid": "8Z1a1DqM8OKL",
+          "title": "Moving Forth: Part 1",
+          "index": 1,
+          "dateAdded": 1683383095117000,
+          "lastModified": 1683383095117000,
+          "id": 664,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.bradrodriguez.com/papers/moving1.htm"
+        },
+        {
+          "guid": "TJPSp6m-Z63S",
+          "title": "Stack Computers: 3.3 OVERVIEW OF THE FORTH PROGRAMMING LANGUAGE",
+          "index": 2,
+          "dateAdded": 1683386249318000,
+          "lastModified": 1683386249318000,
+          "id": 665,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://users.ece.cmu.edu/~koopman/stack_computers/sec3_3.html"
+        },
+        {
+          "guid": "4e-U0MVys70Q",
+          "title": "jonesforth/jonesforth.S at master · nornagon/jonesforth · GitHub",
+          "index": 3,
+          "dateAdded": 1685905602523000,
+          "lastModified": 1685905602523000,
+          "id": 689,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/nornagon/jonesforth/blob/master/jonesforth.S"
+        },
+        {
+          "guid": "YByaej_8ZEop",
+          "title": "Tutorial (Gforth Manual)",
+          "index": 4,
+          "dateAdded": 1686029534907000,
+          "lastModified": 1686029534907000,
+          "id": 690,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://gforth.org/manual/Tutorial.html"
+        },
+        {
+          "guid": "J2JrphxaLOK-",
+          "title": "Starting Forth",
+          "index": 5,
+          "dateAdded": 1686253273587000,
+          "lastModified": 1686253291559000,
+          "id": 693,
+          "typeCode": 1,
+          "iconUri": "https://www.forth.com/wp-content/uploads/2020/08/cropped-ok-iconx2-1-192x192.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.forth.com/starting-forth/1-forth-stacks-dictionary/"
+        },
+        {
+          "guid": "hJB2loi9Mjgg",
+          "title": "Forth",
+          "index": 6,
+          "dateAdded": 1686427962437000,
+          "lastModified": 1686427962437000,
+          "id": 694,
+          "typeCode": 1,
+          "iconUri": "https://forth-standard.org/images/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://forth-standard.org/"
+        },
+        {
+          "guid": "FwyHV0ztaRXv",
+          "title": "SmithForth",
+          "index": 7,
+          "dateAdded": 1686465579360000,
+          "lastModified": 1686465592874000,
+          "id": 695,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://dacvs.neocities.org/SF/SForth220711dmp.txt"
+        },
+        {
+          "guid": "eiFxTgQU-WxR",
+          "title": "Fitting a Forth in 512 bytes",
+          "index": 8,
+          "dateAdded": 1686595225204000,
+          "lastModified": 1686595225204000,
+          "id": 696,
+          "typeCode": 1,
+          "iconUri": "https://compilercrim.es/icon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://compilercrim.es/bootstrap/miniforth/"
+        }
+      ]
+    },
+    {
+      "guid": "Hhol7G9UcKnE",
+      "title": "FreeBSD",
+      "index": 8,
+      "dateAdded": 1681131992593000,
+      "lastModified": 1683355016357000,
+      "id": 639,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "LrzLdscK5RKI",
+          "title": "The Design and Implementation of the 4.4BSD Operating System | FreeBSD Documentation Portal",
+          "index": 0,
+          "dateAdded": 1681132018620000,
+          "lastModified": 1681132018620000,
+          "id": 640,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://docs.freebsd.org/en/books/design-44bsd/"
+        },
+        {
+          "guid": "_Gbzn4YPgUMv",
+          "title": "FreeBSD Developers' Handbook | FreeBSD Documentation Portal",
+          "index": 1,
+          "dateAdded": 1681209134927000,
+          "lastModified": 1681209134927000,
+          "id": 643,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://docs.freebsd.org/en/books/developers-handbook/"
+        },
+        {
+          "guid": "5smmV63I6bJG",
+          "title": "Chapter 25. Updating and Upgrading FreeBSD | FreeBSD Documentation Portal",
+          "index": 2,
+          "dateAdded": 1681576297357000,
+          "lastModified": 1681652860000000,
+          "id": 652,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://docs.freebsd.org/en/books/handbook/cutting-edge/#makeworld"
+        },
+        {
+          "guid": "1-1WaL-iywGM",
+          "title": "FreeBSD Bugzilla Main Page",
+          "index": 3,
+          "dateAdded": 1681635961937000,
+          "lastModified": 1681652860000000,
+          "id": 653,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://bugs.freebsd.org/bugzilla/"
+        },
+        {
+          "guid": "DaBod3hCfh8q",
+          "title": "FreeBSD Bug Tracker",
+          "index": 4,
+          "dateAdded": 1683058518250000,
+          "lastModified": 1683098624000000,
+          "id": 657,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://bugs.freebsd.org/bugzilla/describecomponents.cgi"
+        },
+        {
+          "guid": "ZdPVDQJC8Y1N",
+          "title": "Throw-Away Browser on FreeBSD With \"pot\" Within 5 Minutes",
+          "index": 5,
+          "dateAdded": 1683200154464000,
+          "lastModified": 1683279384000000,
+          "id": 659,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://honeyguide.eu/posts/pot-throwaway-firefox/"
+        },
+        {
+          "guid": "2E84L2-sbLcX",
+          "title": "[Linuxulator] How to run Google Chrome (linux-binary) on FreeBSD | Page 4 | The FreeBSD Forums",
+          "index": 6,
+          "dateAdded": 1683355016357000,
+          "lastModified": 1683355016357000,
+          "id": 660,
+          "typeCode": 1,
+          "iconUri": "https://forums.freebsd.org/styles/freebsd/xenforo/logo.og.png",
+          "type": "text/x-moz-place",
+          "uri": "https://forums.freebsd.org/threads/linuxulator-how-to-run-google-chrome-linux-binary-on-freebsd.77559/page-4"
+        }
+      ]
+    },
+    {
+      "guid": "EHHUmjBUf9cC",
+      "title": "Functional Programming",
+      "index": 9,
+      "dateAdded": 1639058727453000,
+      "lastModified": 1671815883020000,
+      "id": 467,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "k4FJ02WAsgyn",
+          "title": "Practice of Functional Programming - HaskellWiki",
+          "index": 0,
+          "dateAdded": 1639058750958000,
+          "lastModified": 1659590912000000,
+          "id": 468,
+          "typeCode": 1,
+          "iconUri": "https://wiki.haskell.org/wikistatic/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://wiki.haskell.org/Practice_of_Functional_Programming"
+        },
+        {
+          "guid": "zAOeL6dx1imr",
+          "title": "Category Theory 7.1: Functoriality, bifunctors - YouTube",
+          "index": 1,
+          "dateAdded": 1640717554361000,
+          "lastModified": 1659590912000000,
+          "id": 473,
+          "typeCode": 1,
+          "iconUri": "https://www.youtube.com/s/desktop/18069be1/img/favicon_144x144.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.youtube.com/watch?v=pUQ0mmbIdxs"
+        },
+        {
+          "guid": "7I-sdR1mCHtN",
+          "title": "hkust-taco/mlscript: The MLscript programming language. Functional and object-oriented; structurally typed and sound; with powerful type inference. Soon to have full interop with TypeScript!",
+          "index": 2,
+          "dateAdded": 1671815883020000,
+          "lastModified": 1671815883020000,
+          "id": 574,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/hkust-taco/mlscript"
+        }
+      ]
+    },
+    {
+      "guid": "g6heWS0--XZl",
+      "title": "Go",
+      "index": 10,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 355,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "-YcCLIPRiXoK",
+          "title": "Introduction to Go - let's build a network application! | Go User Group Berlin",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 356,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://synflood.at/tmp/golang-slides/mrmcd2012.html#23"
+        },
+        {
+          "guid": "q43gj2Fj-i5L",
+          "title": "crypto/box_test.go at master · golang/crypto",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 357,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/golang/crypto/blob/master/nacl/box/box_test.go"
+        },
+        {
+          "guid": "D8TBNJ83KFTU",
+          "title": "Go Playground",
+          "index": 2,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 358,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://play.golang.org/"
+        },
+        {
+          "guid": "oM9hyOhC6HcN",
+          "title": "Whispering Gophers",
+          "index": 3,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 359,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://whispering-gophers.appspot.com/talk.slide#48"
+        }
+      ]
+    },
+    {
+      "guid": "rqcXZN97NK2i",
+      "title": "Haskell",
+      "index": 11,
+      "dateAdded": 1670139261575000,
+      "lastModified": 1676657626018000,
+      "id": 560,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "4a5diel4TBrR",
+          "title": "First steps - GHCup",
+          "index": 0,
+          "dateAdded": 1670139271607000,
+          "lastModified": 1670139271607000,
+          "id": 561,
+          "typeCode": 1,
+          "iconUri": "https://www.haskell.org/ghcup/haskell_logo.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.haskell.org/ghcup/steps/"
+        },
+        {
+          "guid": "pchimc7mD1q5",
+          "title": "The Haskell Tool Stack",
+          "index": 1,
+          "dateAdded": 1670139275679000,
+          "lastModified": 1670139275679000,
+          "id": 562,
+          "typeCode": 1,
+          "iconUri": "https://docs.haskellstack.org/en/stable/assets/images/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://docs.haskellstack.org/en/stable/"
+        },
+        {
+          "guid": "M7yl2qGhs59i",
+          "title": "GHC version support — haskell-language-server 1.8.0.0 documentation",
+          "index": 2,
+          "dateAdded": 1670139280065000,
+          "lastModified": 1670139280065000,
+          "id": 563,
+          "typeCode": 1,
+          "iconUri": "https://haskell-language-server.readthedocs.io/en/latest/_static/logo.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://haskell-language-server.readthedocs.io/en/latest/support/ghc-version-support.html"
+        },
+        {
+          "guid": "AoyEm48z6uJS",
+          "title": "CheatSheet.pdf",
+          "index": 3,
+          "dateAdded": 1670143754381000,
+          "lastModified": 1670143754381000,
+          "id": 564,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://cheatsheet.codeslower.com/CheatSheet.pdf"
+        },
+        {
+          "guid": "45gDK4uLetad",
+          "title": "Hoogle",
+          "index": 4,
+          "dateAdded": 1670182271687000,
+          "lastModified": 1670182271687000,
+          "id": 565,
+          "typeCode": 1,
+          "iconUri": "https://hoogle.haskell.org/favicon57.png",
+          "type": "text/x-moz-place",
+          "uri": "https://hoogle.haskell.org/"
+        },
+        {
+          "guid": "iMI_Jj2wdaMY",
+          "title": "Chapters - Learn You a Haskell for Great Good!",
+          "index": 5,
+          "dateAdded": 1670265124413000,
+          "lastModified": 1670265124413000,
+          "id": 566,
+          "typeCode": 1,
+          "iconUri": "http://learnyouahaskell.com/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "http://www.learnyouahaskell.com/chapters"
+        },
+        {
+          "guid": "MNPOxHkmKeCP",
+          "title": "The Evolution of a Haskell Programmer",
+          "index": 6,
+          "dateAdded": 1676380575353000,
+          "lastModified": 1676380575353000,
+          "id": 595,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.willamette.edu/~fruehr/haskell/evolution.html"
+        },
+        {
+          "guid": "IuhRGD6JZAZi",
+          "title": "Monday Morning Haskell",
+          "index": 7,
+          "dateAdded": 1676649502151000,
+          "lastModified": 1676649502151000,
+          "id": 596,
+          "typeCode": 1,
+          "iconUri": "https://images.squarespace-cdn.com/content/v1/584219d403596e3099e0ee9b/1610726458229-E3ZEIQZM3995V4Y4TL39/favicon.ico?format=100w",
+          "type": "text/x-moz-place",
+          "uri": "https://mmhaskell.com/"
+        },
+        {
+          "guid": "p1otPsffqEfB",
+          "title": "Happy Learn Haskell Tutorial",
+          "index": 8,
+          "dateAdded": 1676657626018000,
+          "lastModified": 1676657633329000,
+          "id": 597,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://www.happylearnhaskelltutorial.com/contents.html"
+        }
+      ]
+    },
+    {
+      "guid": "TL34xa_vZR2Y",
+      "title": "Idris",
+      "index": 12,
+      "dateAdded": 1642327959677000,
+      "lastModified": 1659590912000000,
+      "id": 477,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "qFLUKg4JshOJ",
+          "title": "Курс по Idris (ver. 2.0 — ФКН ВШЭ) - YouTube",
+          "index": 0,
+          "dateAdded": 1642327948625000,
+          "lastModified": 1659590912000000,
+          "id": 476,
+          "typeCode": 1,
+          "iconUri": "https://www.youtube.com/s/desktop/8cdf19c8/img/favicon_144x144.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.youtube.com/playlist?list=PLvPsfYrGz3wu-XTF0Lo2k0Hsimd9UtzDt"
+        },
+        {
+          "guid": "N4V6isLXuRr8",
+          "title": "idris-lang/Idris2: A purely functional programming language with first class types",
+          "index": 1,
+          "dateAdded": 1637826326000000,
+          "lastModified": 1659590912000000,
+          "id": 399,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/idris-lang/Idris2"
+        },
+        {
+          "guid": "SitaLU-dNQEY",
+          "title": "A Crash Course in Idris 2 — Idris2 0.0 documentation",
+          "index": 2,
+          "dateAdded": 1638726234693000,
+          "lastModified": 1659590912000000,
+          "id": 464,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://idris2.readthedocs.io/en/latest/tutorial/index.html"
+        },
+        {
+          "guid": "RqN5Hbdbk4N3",
+          "title": "Index of /docs/idris2/current",
+          "index": 3,
+          "dateAdded": 1642527671627000,
+          "lastModified": 1659590912000000,
+          "id": 479,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.idris-lang.org/docs/idris2/current/"
+        },
+        {
+          "guid": "FCbV13OC8p9P",
+          "title": "Idris Playground",
+          "index": 4,
+          "dateAdded": 1644142165954000,
+          "lastModified": 1650186171000000,
+          "id": 483,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://learn-idris.net/play"
+        },
+        {
+          "guid": "fqJtY28vGivF",
+          "title": "stefan-hoeck/idris2-tutorial",
+          "index": 5,
+          "dateAdded": 1644158087643000,
+          "lastModified": 1650186171000000,
+          "id": 484,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/stefan-hoeck/idris2-tutorial"
+        },
+        {
+          "guid": "HvVBCAsQVI2g",
+          "title": "Idris2 Docs",
+          "index": 6,
+          "dateAdded": 1654071148211000,
+          "lastModified": 1659590912000000,
+          "id": 513,
+          "typeCode": 1,
+          "iconUri": "https://idris2-quickdocs.surge.sh/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://idris2-quickdocs.surge.sh/"
+        }
+      ]
+    },
+    {
+      "guid": "3OykuRKkIo1j",
+      "title": "IRC",
+      "index": 13,
+      "dateAdded": 1675319725686000,
+      "lastModified": 1680697740668000,
+      "id": 591,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "SKgtEXWwHjD3",
+          "title": "solanum/messages.h at main · solanum-ircd/solanum",
+          "index": 0,
+          "dateAdded": 1630745810000000,
+          "lastModified": 1675319739149000,
+          "id": 451,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/solanum-ircd/solanum/blob/main/include/messages.h"
+        },
+        {
+          "guid": "QmC-ESymS0wc",
+          "title": "solanum/numeric.h at main · solanum-ircd/solanum",
+          "index": 1,
+          "dateAdded": 1630746158000000,
+          "lastModified": 1675319741278000,
+          "id": 452,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/solanum-ircd/solanum/blob/main/include/numeric.h"
+        },
+        {
+          "guid": "crO1d4F7T_7B",
+          "title": "WeeChat user’s guide",
+          "index": 2,
+          "dateAdded": 1680697740668000,
+          "lastModified": 1680697740668000,
+          "id": 617,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://weechat.org/files/doc/stable/weechat_user.en.html"
+        }
+      ]
+    },
+    {
+      "guid": "fyJ0LetLd_TD",
+      "title": "Java",
+      "index": 14,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 360,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "S-hFFBthZnZB",
+          "title": "Patterns",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 361,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://java-design-patterns.com/patterns/"
+        }
+      ]
+    },
+    {
+      "guid": "xYbPN2GFon6-",
+      "title": "Job Search",
+      "index": 15,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1682367212021000,
+      "id": 362,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "aNS7AdQnCPur",
+          "title": "Nomad List — The Best Cities to Live and Work Remotely",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 363,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://nomadlist.com/",
+          "type": "text/x-moz-place",
+          "uri": "https://nomadlist.com/"
+        },
+        {
+          "guid": "nQGOTX5J5oec",
+          "title": "WFH.io",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 364,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://www.wfh.io/",
+          "type": "text/x-moz-place",
+          "uri": "https://www.wfh.io/"
+        },
+        {
+          "guid": "PmIaip5JTGv7",
+          "title": "Trevor Arjeski | Jobspresso",
+          "index": 2,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 365,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://jobspresso.co/resume/gyb0lia-trevor-arjeski/"
+        },
+        {
+          "guid": "yKu3r9VUN_rU",
+          "title": "WorksHub",
+          "index": 3,
+          "dateAdded": 1640933900343000,
+          "lastModified": 1659590912000000,
+          "id": 474,
+          "typeCode": 1,
+          "iconUri": "https://www.works-hub.com/img/favicons/www-32x32.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.works-hub.com/jobs"
+        },
+        {
+          "guid": "KZjfSKGjwB5U",
+          "title": "Compiler Job Search | WorksHub",
+          "index": 4,
+          "dateAdded": 1640942391225000,
+          "lastModified": 1659590912000000,
+          "id": 475,
+          "typeCode": 1,
+          "iconUri": "https://www.works-hub.com/favicons/www-32x32.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.works-hub.com/compiler-jobs"
+        },
+        {
+          "guid": "pXoFC0TAQzwE",
+          "title": "Overemployed - Work Two Remote Jobs, Reach Financial Freedom",
+          "index": 5,
+          "dateAdded": 1648540854935000,
+          "lastModified": 1650186171000000,
+          "id": 494,
+          "typeCode": 1,
+          "iconUri": "https://overemployed.com/wp-content/uploads/2021/03/bda24d7a-d79c-4090-98cf-f1776e609d39_200x200.png",
+          "type": "text/x-moz-place",
+          "uri": "https://overemployed.com/"
+        },
+        {
+          "guid": "N798cXPS8Ff-",
+          "title": "OCaml Jobs",
+          "index": 6,
+          "dateAdded": 1658234841100000,
+          "lastModified": 1659590912000000,
+          "id": 527,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ocaml.org/jobs"
+        },
+        {
+          "guid": "Dn1ku7RwxZ95",
+          "title": "Работа в Москве, поиск персонала и публикация вакансий - hh.ru",
+          "index": 7,
+          "dateAdded": 1676125151983000,
+          "lastModified": 1676125151983000,
+          "id": 592,
+          "typeCode": 1,
+          "iconUri": "https://i.hh.ru/apple/hh/touch-icon-ipad-retina.png",
+          "type": "text/x-moz-place",
+          "uri": "https://hh.ru/search/vacancy?area=1&search_field=name&search_field=company_name&search_field=description&enable_snippets=true&text=Rust"
+        }
+      ]
+    },
+    {
+      "guid": "Ct2O376XjKO6",
+      "title": "KDE",
+      "index": 16,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 366,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "XMUGyvko1YNW",
+          "title": "Get Involved/development - KDE Community Wiki",
+          "index": 0,
+          "dateAdded": 1558985963000000,
+          "lastModified": 1659590912000000,
+          "id": 367,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://community.kde.org/Get_Involved/development"
+        }
+      ]
+    },
+    {
+      "guid": "Az6RJGqyVuz6",
+      "title": "Kotlin",
+      "index": 17,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 368,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "tc8CNSz5LxaS",
+          "title": "From Java to Kotlin",
+          "index": 0,
+          "dateAdded": 1560708969000000,
+          "lastModified": 1659590912000000,
+          "id": 369,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://fabiomsr.github.io/from-java-to-kotlin/"
+        },
+        {
+          "guid": "TQXslit0towu",
+          "title": "Kotlin Koans: The Best Way To Learn Kotlin for Java Developers",
+          "index": 1,
+          "dateAdded": 1560670458000000,
+          "lastModified": 1659590912000000,
+          "id": 370,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt"
+        }
+      ]
+    },
+    {
+      "guid": "GuAgOUhuKvyx",
+      "title": "LaTeX",
+      "index": 18,
+      "dateAdded": 1681034874256000,
+      "lastModified": 1681305680793000,
+      "id": 631,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "S-hJ5XfK60aN",
+          "title": "lshort.pdf",
+          "index": 0,
+          "dateAdded": 1681034893480000,
+          "lastModified": 1681034893480000,
+          "id": 632,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://mirrors.mi-ras.ru/CTAN/info/lshort/english/lshort.pdf"
+        },
+        {
+          "guid": "m-sSeTqBXtOX",
+          "title": "CTAN: Comprehensive TeX Archive Network",
+          "index": 1,
+          "dateAdded": 1681034906048000,
+          "lastModified": 1681034906048000,
+          "id": 633,
+          "typeCode": 1,
+          "iconUri": "https://www.ctan.org/assets/favicon/android-chrome-192x192-beba071413dcab08f0a0c89a58a23457.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.ctan.org/"
+        }
+      ]
+    },
+    {
+      "guid": "7OkVwYNw_ZNs",
+      "title": "Lisps",
+      "index": 19,
+      "dateAdded": 1652525043045000,
+      "lastModified": 1687680789727000,
+      "id": 504,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "5efA3PYA1lk1",
+          "title": "CL Cookbook",
+          "index": 0,
+          "dateAdded": 1652525053006000,
+          "lastModified": 1659590912000000,
+          "id": 505,
+          "typeCode": 1,
+          "iconUri": "https://lispcookbook.github.io/cl-cookbook/assets/cl-logo-blue.png",
+          "type": "text/x-moz-place",
+          "uri": "https://lispcookbook.github.io/cl-cookbook/"
+        },
+        {
+          "guid": "LEMhT5B7hv0Y",
+          "title": "Practical Common Lisp",
+          "index": 1,
+          "dateAdded": 1652702263883000,
+          "lastModified": 1659590912000000,
+          "id": 506,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://gigamonkeys.com/book/"
+        },
+        {
+          "guid": "GRa2kU5l_acT",
+          "title": "CodyReichert/awesome-cl: A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
+          "index": 2,
+          "dateAdded": 1652702290419000,
+          "lastModified": 1659590912000000,
+          "id": 507,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/CodyReichert/awesome-cl"
+        },
+        {
+          "guid": "NyAYqzVdJbcg",
+          "title": "Writing Small CLI Programs in Common Lisp / Steve Losh",
+          "index": 3,
+          "dateAdded": 1683996913930000,
+          "lastModified": 1683996913930000,
+          "id": 668,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/"
+        },
+        {
+          "guid": "o0dPs4ejzuGv",
+          "title": "CLHS: Chapter Index",
+          "index": 4,
+          "dateAdded": 1684000572359000,
+          "lastModified": 1684000572359000,
+          "id": 669,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm"
+        },
+        {
+          "guid": "cMd0fIN4ZHB5",
+          "title": "articulate-lisp.com",
+          "index": 5,
+          "dateAdded": 1684101248371000,
+          "lastModified": 1684129780000000,
+          "id": 670,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://articulate-lisp.com/"
+        },
+        {
+          "guid": "gNir3cZyu0CX",
+          "title": "A Road to Common Lisp / Steve Losh",
+          "index": 6,
+          "dateAdded": 1687460571811000,
+          "lastModified": 1687460571811000,
+          "id": 699,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/"
+        },
+        {
+          "guid": "aewkCbiNkfb9",
+          "title": "https://40ants.com/lisp-project-of-the-day/",
+          "index": 7,
+          "dateAdded": 1687680789727000,
+          "lastModified": 1687680789727000,
+          "id": 701,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://40ants.com/lisp-project-of-the-day/"
+        }
+      ]
+    },
+    {
+      "guid": "GQhTFIdyQBMG",
+      "title": "Lua",
+      "index": 20,
+      "dateAdded": 1700162514255000,
+      "lastModified": 1700162803023000,
+      "id": 733,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "NJzkTzWGD5yv",
+          "title": "Programming in Lua (first edition)",
+          "index": 0,
+          "dateAdded": 1700162553533000,
+          "lastModified": 1700162553533000,
+          "id": 735,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.lua.org/pil/contents.html"
+        },
+        {
+          "guid": "qmBUopBjesCM",
+          "title": "Learn Lua in Y Minutes",
+          "index": 1,
+          "dateAdded": 1700162596859000,
+          "lastModified": 1700162596859000,
+          "id": 736,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://learnxinyminutes.com/docs/lua/"
+        },
+        {
+          "guid": "RIzc3Bb9WoIv",
+          "title": "Lua: Good, bad, and ugly parts - ZeroBrane",
+          "index": 2,
+          "dateAdded": 1700162803023000,
+          "lastModified": 1700162803023000,
+          "id": 738,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts"
+        }
+      ]
+    },
+    {
+      "guid": "tzOhMeASw7-r",
+      "title": "Nvim",
+      "index": 21,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1673171170838000,
+      "id": 371,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "QhZ6w2QjsDvh",
+          "title": "Guides",
+          "index": 0,
+          "dateAdded": 1673171034148000,
+          "lastModified": 1673171127722000,
+          "id": 583,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "2m73iP0VIVPF",
+              "title": "nanotee/nvim-lua-guide: A guide to using Lua in Neovim",
+              "index": 0,
+              "dateAdded": 1612336250000000,
+              "lastModified": 1673171041887000,
+              "id": 372,
+              "typeCode": 1,
+              "iconUri": "https://github.com/fluidicon.png",
+              "type": "text/x-moz-place",
+              "uri": "https://github.com/nanotee/nvim-lua-guide"
+            },
+            {
+              "guid": "mmGxwa-Xpy6z",
+              "title": "Lua-guide - Neovim docs",
+              "index": 1,
+              "dateAdded": 1671547546131000,
+              "lastModified": 1673171054587000,
+              "id": 573,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://neovim.io/doc/user/lua-guide.html#lua-guide"
+            },
+            {
+              "guid": "06qjS5Rf6yzm",
+              "title": "Getting Started | AstroNvim",
+              "index": 2,
+              "dateAdded": 1671036135222000,
+              "lastModified": 1673171062502000,
+              "id": 569,
+              "typeCode": 1,
+              "iconUri": "https://astronvim.github.io/img/favicon.ico",
+              "type": "text/x-moz-place",
+              "uri": "https://astronvim.github.io/"
+            },
+            {
+              "guid": "s6w8yS1P9vdy",
+              "title": "rust-analyzer/lsp-extensions.md at master · rust-analyzer/rust-analyzer",
+              "index": 3,
+              "dateAdded": 1612691092000000,
+              "lastModified": 1673171080712000,
+              "id": 376,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/lsp-extensions.md#expand-macro"
+            },
+            {
+              "guid": "76sov7jrB689",
+              "title": "Vim Grammar",
+              "index": 4,
+              "dateAdded": 1672214390083000,
+              "lastModified": 1673171105494000,
+              "id": 579,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://takac.github.io/2013/01/30/vim-grammar/"
+            },
+            {
+              "guid": "ml2a6oXSwwxB",
+              "title": "(Neo)Vim Default Mappings - Google Sheets",
+              "index": 5,
+              "dateAdded": 1673109393011000,
+              "lastModified": 1673171127722000,
+              "id": 581,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://docs.google.com/spreadsheets/d/1EJMLr_MPrYiO1TKJ2MjNkR-fA5Wgxa782-f0Wtdpz0w/edit#gid=1730402639"
+            }
+          ]
+        },
+        {
+          "guid": "XIQq15mK-Rdr",
+          "title": "Configs",
+          "index": 1,
+          "dateAdded": 1673171084733000,
+          "lastModified": 1673171090561000,
+          "id": 584,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "R9IvXMyKNYJ8",
+              "title": "Features | NvChad",
+              "index": 0,
+              "dateAdded": 1644735296802000,
+              "lastModified": 1673171089220000,
+              "id": 485,
+              "typeCode": 1,
+              "iconUri": "https://nvchad.github.io/img/favicon.ico",
+              "type": "text/x-moz-place",
+              "uri": "https://nvchad.github.io/features#ui-plugins"
+            },
+            {
+              "guid": "5gYUY1dOtkB6",
+              "title": "master - AstroNvim_user",
+              "index": 1,
+              "dateAdded": 1671036110328000,
+              "lastModified": 1673171090561000,
+              "id": 568,
+              "typeCode": 1,
+              "iconUri": "https://code.mehalter.com/logo.png?v=1654544018505",
+              "type": "text/x-moz-place",
+              "uri": "https://code.mehalter.com/AstroNvim_user/~files"
+            }
+          ]
+        },
+        {
+          "guid": "R332f4cvhLkq",
+          "title": "Plugins",
+          "index": 2,
+          "dateAdded": 1673171150238000,
+          "lastModified": 1673171156558000,
+          "id": 585,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "GMI6kciV9Ohe",
+              "title": "chipsenkbeil/distant.nvim: 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧",
+              "index": 0,
+              "dateAdded": 1671036277255000,
+              "lastModified": 1673171156558000,
+              "id": 571,
+              "typeCode": 1,
+              "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+              "type": "text/x-moz-place",
+              "uri": "https://github.com/chipsenkbeil/distant.nvim"
+            }
+          ]
+        },
+        {
+          "guid": "WB49Mj7Kh3aZ",
+          "title": "Kethku/nvim-rs: A rust library for neovim clients",
+          "index": 3,
+          "dateAdded": 1612336265000000,
+          "lastModified": 1673171170838000,
+          "id": 374,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/kethku/nvim-rs"
+        },
+        {
+          "guid": "ZO9MVv17zkOa",
+          "title": "rockerBOO/awesome-neovim: Collections of awesome neovim plugins.",
+          "index": 4,
+          "dateAdded": 1671036145125000,
+          "lastModified": 1673171140617000,
+          "id": 570,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/rockerBOO/awesome-neovim#colorscheme"
+        },
+        {
+          "guid": "u7Cci4s_haqr",
+          "title": "mhinz/vim-galore: All things Vim!",
+          "index": 5,
+          "dateAdded": 1673170987938000,
+          "lastModified": 1673171107692000,
+          "id": 582,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/mhinz/vim-galore#readme"
+        }
+      ]
+    },
+    {
+      "guid": "xMiO1AKDMecy",
+      "title": "OCaml",
+      "index": 22,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 378,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "xD3IE_hLaUKd",
+          "title": "Cover Page · GitBook",
+          "index": 0,
+          "dateAdded": 1615311176000000,
+          "lastModified": 1659590912000000,
+          "id": 379,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/",
+          "type": "text/x-moz-place",
+          "uri": "https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/"
+        },
+        {
+          "guid": "4e71cErL7vVh",
+          "title": "A Crash Course for the MinCaml Compiler",
+          "index": 1,
+          "dateAdded": 1621084209000000,
+          "lastModified": 1659590912000000,
+          "id": 380,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://esumii.github.io/min-caml/index-e.html"
+        },
+        {
+          "guid": "HjsltaCLRdJm",
+          "title": "ocaml-stdlib.pdf",
+          "index": 2,
+          "dateAdded": 1654686797870000,
+          "lastModified": 1659590912000000,
+          "id": 515,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ocamlpro.github.io/ocaml-cheat-sheets/ocaml-stdlib.pdf"
+        },
+        {
+          "guid": "kt91uJBdNedi",
+          "title": "ocaml-tools.pdf",
+          "index": 3,
+          "dateAdded": 1654686804318000,
+          "lastModified": 1659590912000000,
+          "id": 516,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ocamlpro.github.io/ocaml-cheat-sheets/ocaml-tools.pdf"
+        },
+        {
+          "guid": "x2PvOqAkv0jt",
+          "title": "ocaml-lang.pdf",
+          "index": 4,
+          "dateAdded": 1654686809624000,
+          "lastModified": 1659590912000000,
+          "id": 517,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ocamlpro.github.io/ocaml-cheat-sheets/ocaml-lang.pdf"
+        },
+        {
+          "guid": "evxSvwxYtQ4t",
+          "title": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
+          "index": 5,
+          "dateAdded": 1655220913609000,
+          "lastModified": 1659590912000000,
+          "id": 520,
+          "typeCode": 1,
+          "iconUri": "https://cs3110.github.io/textbook/_static/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://cs3110.github.io/textbook/cover.html"
+        },
+        {
+          "guid": "I__bWRQMr00G",
+          "title": "OCaml - The OCaml Manual",
+          "index": 6,
+          "dateAdded": 1655457383038000,
+          "lastModified": 1659590912000000,
+          "id": 523,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://v2.ocaml.org/manual/index.html"
+        },
+        {
+          "guid": "tPnNXymzGuKC",
+          "title": "Menhir",
+          "index": 7,
+          "dateAdded": 1655617135261000,
+          "lastModified": 1659590912000000,
+          "id": 525,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://gallium.inria.fr/~fpottier/menhir/"
+        },
+        {
+          "guid": "EPrMY49JE8Oz",
+          "title": "Toy language :: Documentation for Hugo Learn Theme",
+          "index": 8,
+          "dateAdded": 1655638350810000,
+          "lastModified": 1659590912000000,
+          "id": 526,
+          "typeCode": 1,
+          "iconUri": "https://ohama.github.io/ocaml/images/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://ohama.github.io/ocaml/ocamllex-tutorial/examples/toylanguage/"
+        }
+      ]
+    },
+    {
+      "guid": "LLD9sM63_XKx",
+      "title": "Oracle",
+      "index": 23,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 381,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "4xfRePrzlbbK",
+          "title": "Oracle Database 11g: Administration Workshop I Release 2",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 382,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=609&p_org_id=1001&lang=US&get_params=dc:D50102GC20,p_preview:N"
+        },
+        {
+          "guid": "zZICNtD-SIrw",
+          "title": "Oracle Certification Program: Steps to Become Oracle Certified | Certifications | Oracle",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 383,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=50"
+        },
+        {
+          "guid": "ZogHioFOXkq1",
+          "title": "Oracle Database 11g Administrator Certified Associate",
+          "index": 2,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 384,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=653&get_params=p_id:50#tabs-1"
+        }
+      ]
+    },
+    {
+      "guid": "F74dU7OqcBs5",
+      "title": "OS Dev",
+      "index": 24,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1683376708755000,
+      "id": 385,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "jNqg2WkY9JjP",
+          "title": "Expanded Main Page - OSDev Wiki",
+          "index": 0,
+          "dateAdded": 1583152083000000,
+          "lastModified": 1659590912000000,
+          "id": 386,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://wiki.osdev.org/Main_Page"
+        },
+        {
+          "guid": "w1HhIi6Zqt7b",
+          "title": "Hubris",
+          "index": 1,
+          "dateAdded": 1638380984469000,
+          "lastModified": 1659590912000000,
+          "id": 462,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://hubris.oxide.computer/reference/"
+        },
+        {
+          "guid": "7B1CcJGDi33W",
+          "title": "Collapse OS — Bootstrap post-collapse technology",
+          "index": 2,
+          "dateAdded": 1649653332449000,
+          "lastModified": 1650186171000000,
+          "id": 501,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://collapseos.org/"
+        },
+        {
+          "guid": "KJ07au1kOsPj",
+          "title": "The Old Unix Tree",
+          "index": 3,
+          "dateAdded": 1683120105724000,
+          "lastModified": 1683120115423000,
+          "id": 658,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.tuhs.org/cgi-bin/utree.pl"
+        },
+        {
+          "guid": "7KZjAGI79xEb",
+          "title": "os01/Operating_Systems_From_0_to_1.pdf at master · tuhdo/os01 · GitHub",
+          "index": 4,
+          "dateAdded": 1683376708755000,
+          "lastModified": 1683376708755000,
+          "id": 661,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf"
+        }
+      ]
+    },
+    {
+      "guid": "blVzjIB7Kftq",
+      "title": "Programming",
+      "index": 25,
+      "dateAdded": 1675319674445000,
+      "lastModified": 1687933521431000,
+      "id": 590,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "DAvHlt5cGRSR",
+          "title": "mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about",
+          "index": 0,
+          "dateAdded": 1675319661514000,
+          "lastModified": 1675319696812000,
+          "id": 589,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/mtdvio/every-programmer-should-know"
+        },
+        {
+          "guid": "QjQOUdmE79j5",
+          "title": "Command Line Interface Guidelines",
+          "index": 1,
+          "dateAdded": 1670401498122000,
+          "lastModified": 1675319698813000,
+          "id": 567,
+          "typeCode": 1,
+          "iconUri": "https://clig.dev/apple-touch-icon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://clig.dev/"
+        },
+        {
+          "guid": "lNnSU6X3gk2w",
+          "title": "Advent of Code",
+          "index": 2,
+          "dateAdded": 1638202587769000,
+          "lastModified": 1675319700950000,
+          "id": 460,
+          "typeCode": 1,
+          "iconUri": "https://adventofcode.com/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://adventofcode.com/"
+        },
+        {
+          "guid": "HOsjGyg5ZSW-",
+          "title": "Compiler Explorer",
+          "index": 3,
+          "dateAdded": 1678700041392000,
+          "lastModified": 1678700041392000,
+          "id": 603,
+          "typeCode": 1,
+          "iconUri": "https://godbolt.org/favicon.ico?v=1",
+          "type": "text/x-moz-place",
+          "uri": "https://godbolt.org/"
+        },
+        {
+          "guid": "17Xa3GSjtnnE",
+          "title": "programming-challenges-v4.0.png (PNG Image, 1920 × 1080 pixels)",
+          "index": 4,
+          "dateAdded": 1679238252072000,
+          "lastModified": 1679238252072000,
+          "id": 606,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://akademiapython.pl/wp-content/uploads/2020/04/programming-challenges-v4.0.png"
+        },
+        {
+          "guid": "Zv5n_38iq2eJ",
+          "title": "a better /dpt/ roller",
+          "index": 5,
+          "dateAdded": 1680149817626000,
+          "lastModified": 1680149817626000,
+          "id": 609,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://better-dpt-roll.github.io/"
+        },
+        {
+          "guid": "xtES7oHFtxMi",
+          "title": "trunk-based development",
+          "index": 6,
+          "dateAdded": 1685166901387000,
+          "lastModified": 1685166910903000,
+          "id": 678,
+          "typeCode": 1,
+          "iconUri": "https://trunkbaseddevelopment.com/images/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://trunkbaseddevelopment.com/"
+        },
+        {
+          "guid": "ukF0eVa60hTc",
+          "title": "OUP Book - PatternsOfSoftware.pdf",
+          "index": 7,
+          "dateAdded": 1687933521431000,
+          "lastModified": 1687933521431000,
+          "id": 703,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.dreamsongs.com/Files/PatternsOfSoftware.pdf"
+        }
+      ]
+    },
+    {
+      "guid": "o7z1hT60XBPS",
+      "title": "Programming Languages",
+      "index": 26,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1669300907442000,
+      "id": 387,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "Bln630uKyUb5",
+          "title": "Book Resources - Cambridge University Press",
+          "index": 0,
+          "dateAdded": 1594812131000000,
+          "lastModified": 1659590912000000,
+          "id": 388,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://www.cambridge.org/resources/052182060X/"
+        },
+        {
+          "guid": "UmcNFmGXcCHB",
+          "title": "Writing An Interpreter In Go | Thorsten Ball",
+          "index": 1,
+          "dateAdded": 1595150454000000,
+          "lastModified": 1659590912000000,
+          "id": 389,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://interpreterbook.com/"
+        },
+        {
+          "guid": "jbAYmWG-gYSv",
+          "title": "Writing A Compiler In Go | Thorsten Ball",
+          "index": 2,
+          "dateAdded": 1595150463000000,
+          "lastModified": 1659590912000000,
+          "id": 390,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://compilerbook.com/"
+        },
+        {
+          "guid": "yX0Az1-D0XBv",
+          "title": "Crafting Interpreters",
+          "index": 3,
+          "dateAdded": 1595150549000000,
+          "lastModified": 1659590912000000,
+          "id": 391,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://craftinginterpreters.com/"
+        },
+        {
+          "guid": "U-IQ9iouF6T8",
+          "title": "Structure and Interpretation of Computer Programs",
+          "index": 4,
+          "dateAdded": 1595152297000000,
+          "lastModified": 1659590912000000,
+          "id": 392,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://mitpress.mit.edu/sites/default/files/sicp/index.html"
+        },
+        {
+          "guid": "YLCrgASbTIM1",
+          "title": "Simple but Powerful Pratt Parsing",
+          "index": 5,
+          "dateAdded": 1595912814000000,
+          "lastModified": 1659590912000000,
+          "id": 393,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html"
+        },
+        {
+          "guid": "-CaGIQ4uwIdp",
+          "title": "Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog",
+          "index": 6,
+          "dateAdded": 1596432098000000,
+          "lastModified": 1659590912000000,
+          "id": 394,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ruslanspivak.com/lsbasi-part1/"
+        },
+        {
+          "guid": "VfbxW6mn1p4B",
+          "title": "Kixiron/rust-langdev: Language development libraries for Rust",
+          "index": 7,
+          "dateAdded": 1596610235000000,
+          "lastModified": 1659590912000000,
+          "id": 395,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/Kixiron/rust-langdev"
+        },
+        {
+          "guid": "6jli_HGMOeDo",
+          "title": "Let's make a Teeny Tiny compiler, part 1 - Austin Z. Henley",
+          "index": 8,
+          "dateAdded": 1597294731000000,
+          "lastModified": 1659590912000000,
+          "id": 396,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html"
+        },
+        {
+          "guid": "sOtDHe8vnPwl",
+          "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
+          "index": 9,
+          "dateAdded": 1613728196000000,
+          "lastModified": 1659590912000000,
+          "id": 397,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://learnxinyminutes.com/"
+        },
+        {
+          "guid": "59hPkvyg_PZ6",
+          "title": "jeanqasaur/pltalk: Schedule for the #PLTalk livestream. On Twitch here: https://www.twitch.tv/jeanqasaur",
+          "index": 10,
+          "dateAdded": 1637824879000000,
+          "lastModified": 1659590912000000,
+          "id": 398,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/jeanqasaur/pltalk"
+        },
+        {
+          "guid": "C93w6PjWIa_Q",
+          "title": "PureScript",
+          "index": 11,
+          "dateAdded": 1637826378000000,
+          "lastModified": 1659590912000000,
+          "id": 400,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://www.purescript.org/",
+          "type": "text/x-moz-place",
+          "uri": "https://www.purescript.org/"
+        },
+        {
+          "guid": "uydkCY1q62IA",
+          "title": "Proof assistant - Wikipedia",
+          "index": 12,
+          "dateAdded": 1639124474747000,
+          "lastModified": 1659590912000000,
+          "id": 469,
+          "typeCode": 1,
+          "iconUri": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+          "type": "text/x-moz-place",
+          "uri": "https://en.wikipedia.org/wiki/Proof_assistant"
+        },
+        {
+          "guid": "Q-6hwEa35fap",
+          "title": "PLS Lab | PLS Lab",
+          "index": 13,
+          "dateAdded": 1642486003154000,
+          "lastModified": 1659590912000000,
+          "id": 478,
+          "typeCode": 1,
+          "iconUri": "https://www.pls-lab.org/_assets/favicons/android-chrome-192x192.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.pls-lab.org/"
+        },
+        {
+          "guid": "CkzCGDhY3_60",
+          "title": "- PLD Wiki",
+          "index": 14,
+          "dateAdded": 1642596158242000,
+          "lastModified": 1659590912000000,
+          "id": 480,
+          "typeCode": 1,
+          "iconUri": "https://proglangdesign.net/wiki/images/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://proglangdesign.net/wiki/"
+        },
+        {
+          "guid": "ncYpkjAGxzI9",
+          "title": "Лекция 2. Операционная семантика большого шага (Языки программирования и компиляторы) - YouTube",
+          "index": 15,
+          "dateAdded": 1648225108749000,
+          "lastModified": 1650186171000000,
+          "id": 491,
+          "typeCode": 1,
+          "iconUri": "https://www.youtube.com/s/desktop/8d3f0079/img/favicon_144x144.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.youtube.com/watch?v=mkf1amaeFNw&list=PLlb7e2G7aSpQ4Ym2TWTYyMcfMevxpKoxj&index=2"
+        },
+        {
+          "guid": "dOfbKBAUUq-A",
+          "title": "tr1049.pdf",
+          "index": 16,
+          "dateAdded": 1653112719538000,
+          "lastModified": 1659590912000000,
+          "id": 509,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.cs.yale.edu/publications/techreports/tr1049.pdf"
+        },
+        {
+          "guid": "mIdT9b0Z9syu",
+          "title": "Tiger Compiler Modules for Programming Exercises",
+          "index": 17,
+          "dateAdded": 1655562134409000,
+          "lastModified": 1659590912000000,
+          "id": 524,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.cs.princeton.edu/~appel/modern/ml/project.html"
+        },
+        {
+          "guid": "IYKreJ8b95zH",
+          "title": "Programming Language Foundations in Agda – Table of Contents",
+          "index": 18,
+          "dateAdded": 1669300907442000,
+          "lastModified": 1669300907442000,
+          "id": 558,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://plfa.inf.ed.ac.uk/"
+        }
+      ]
+    },
+    {
+      "guid": "CN9tvMoWvK7d",
+      "title": "Python",
+      "index": 27,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1700284732814000,
+      "id": 401,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "dx13W8IqvDTs",
+          "title": "The Flask Mega-Tutorial, Part III: Web Forms - miguelgrinberg.com",
+          "index": 0,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 403,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms"
+        },
+        {
+          "guid": "XCVCLCe0aZL2",
+          "title": "kmike/pymorphy2",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 404,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/kmike/pymorphy2"
+        }
+      ]
+    },
+    {
+      "guid": "FLeT7stvJHkg",
+      "title": "ROMs",
+      "index": 28,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 405,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "9SRXzG-MMTDB",
+          "title": "Vimm's Lair: The Vault",
+          "index": 0,
+          "dateAdded": 1599240092000000,
+          "lastModified": 1659590912000000,
+          "id": 406,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://vimm.net/?p=vault"
+        }
+      ]
+    },
+    {
+      "guid": "zdNUF-f4cdN1",
+      "title": "Rust",
+      "index": 29,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1673271949919000,
+      "id": 407,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "Es2MV5PoGMQu",
+          "title": "Rust By Example",
+          "index": 0,
+          "dateAdded": 1583758932000000,
+          "lastModified": 1659590912000000,
+          "id": 408,
+          "typeCode": 1,
+          "iconUri": "https://doc.rust-lang.org/stable/rust-by-example/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://doc.rust-lang.org/stable/rust-by-example/"
+        },
+        {
+          "guid": "XKq_p0dRid_x",
+          "title": "Rust Book",
+          "index": 1,
+          "dateAdded": 1583152029000000,
+          "lastModified": 1659590912000000,
+          "id": 409,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://doc.rust-lang.org/stable/book/"
+        },
+        {
+          "guid": "KTEjcuYDqdbY",
+          "title": "This Week in Rust",
+          "index": 2,
+          "dateAdded": 1583649340000000,
+          "lastModified": 1659590912000000,
+          "id": 410,
+          "typeCode": 1,
+          "iconUri": "https://www.rust-lang.org/static/images/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://this-week-in-rust.org/"
+        },
+        {
+          "guid": "SijC2QQFJtxl",
+          "title": "Trending Rust repositories on GitHub today",
+          "index": 3,
+          "dateAdded": 1583649346000000,
+          "lastModified": 1659590912000000,
+          "id": 411,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/trending/rust?since=daily"
+        },
+        {
+          "guid": "tyhiTXrPvcJL",
+          "title": "rust-unofficial/awesome-rust: A curated list of Rust code and resources.",
+          "index": 4,
+          "dateAdded": 1583653535000000,
+          "lastModified": 1659590912000000,
+          "id": 412,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/rust-unofficial/awesome-rust"
+        },
+        {
+          "guid": "6Rvk-1nadMMC",
+          "title": "Introduction - The Rust Reference",
+          "index": 5,
+          "dateAdded": 1584712584000000,
+          "lastModified": 1659590912000000,
+          "id": 413,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://doc.rust-lang.org/reference/index.html"
+        },
+        {
+          "guid": "meBhyRelzAbe",
+          "title": "Find something Rusty to work on",
+          "index": 6,
+          "dateAdded": 1585400559000000,
+          "lastModified": 1659590912000000,
+          "id": 414,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.rustaceans.org/findwork/starters"
+        },
+        {
+          "guid": "J7RQhU1xrBzf",
+          "title": "Guide to Rustc Development",
+          "index": 7,
+          "dateAdded": 1586023913000000,
+          "lastModified": 1659590912000000,
+          "id": 415,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://rustc-dev-guide.rust-lang.org/",
+          "type": "text/x-moz-place",
+          "uri": "https://rustc-dev-guide.rust-lang.org/"
+        },
+        {
+          "guid": "yn9VvHTfIG26",
+          "title": "std - Rust",
+          "index": 8,
+          "dateAdded": 1591781707000000,
+          "lastModified": 1659590912000000,
+          "id": 416,
+          "typeCode": 1,
+          "iconUri": "https://doc.rust-lang.org/favicon1.62.0.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://doc.rust-lang.org/std/index.html"
+        },
+        {
+          "guid": "Q2V4h18G9P76",
+          "title": "tokio - Rust",
+          "index": 9,
+          "dateAdded": 1591854900000000,
+          "lastModified": 1659590912000000,
+          "id": 417,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://tokio-rs.github.io/tokio/doc/tokio/index.html",
+          "type": "text/x-moz-place",
+          "uri": "https://tokio-rs.github.io/tokio/doc/tokio/index.html"
+        },
+        {
+          "guid": "nyj3OdoqC6YC",
+          "title": "Rustup packages availability on x86_64-unknown-linux-gnu",
+          "index": 10,
+          "dateAdded": 1592248957000000,
+          "lastModified": 1659590912000000,
+          "id": 418,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://rust-lang.github.io/rustup-components-history/x86_64-unknown-linux-gnu.html"
+        },
+        {
+          "guid": "S4sjXuLY-eLn",
+          "title": "The Little Book of Rust Macros",
+          "index": 11,
+          "dateAdded": 1592716521000000,
+          "lastModified": 1659590912000000,
+          "id": 419,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://danielkeep.github.io/tlborm/book/README.html"
+        },
+        {
+          "guid": "QhIevf42mtyj",
+          "title": "Lib.rs — home for Rust crates // Lib.rs",
+          "index": 12,
+          "dateAdded": 1593696098000000,
+          "lastModified": 1659590912000000,
+          "id": 420,
+          "typeCode": 1,
+          "iconUri": "https://lib.rs/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://lib.rs/"
+        },
+        {
+          "guid": "ZtbgS2KjbPJ5",
+          "title": "Rust Book Nightly",
+          "index": 13,
+          "dateAdded": 1595834946000000,
+          "lastModified": 1659590912000000,
+          "id": 421,
+          "typeCode": 1,
+          "iconUri": "https://doc.rust-lang.org/nightly/book/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://doc.rust-lang.org/nightly/book/"
+        },
+        {
+          "guid": "Jw0MTZLjz12W",
+          "title": "Compiler Explorer",
+          "index": 14,
+          "dateAdded": 1596965504000000,
+          "lastModified": 1659590912000000,
+          "id": 422,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://rust.godbolt.org/",
+          "type": "text/x-moz-place",
+          "uri": "https://rust.godbolt.org/"
+        },
+        {
+          "guid": "04neUSTcDmtc",
+          "title": "dtolnay/proc-macro-workshop: Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",
+          "index": 15,
+          "dateAdded": 1597849929000000,
+          "lastModified": 1659590912000000,
+          "id": 423,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/dtolnay/proc-macro-workshop"
+        },
+        {
+          "guid": "R4EloJavs4YA",
+          "title": "Writing an OS in Rust",
+          "index": 16,
+          "dateAdded": 1599138425000000,
+          "lastModified": 1659590912000000,
+          "id": 424,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://os.phil-opp.com/"
+        },
+        {
+          "guid": "itj_r9VB78li",
+          "title": "Rust Language Cheat Sheet",
+          "index": 17,
+          "dateAdded": 1601706026000000,
+          "lastModified": 1659590912000000,
+          "id": 425,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://cheats.rs/#common-one-liners"
+        },
+        {
+          "guid": "h8_qYRWpgNet",
+          "title": "Introduction - The Rust RFC Book",
+          "index": 18,
+          "dateAdded": 1601964538000000,
+          "lastModified": 1659590912000000,
+          "id": 426,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://rust-lang.github.io/rfcs/introduction.html"
+        },
+        {
+          "guid": "cK1aNovPAuGT",
+          "title": "The Rust Programming Language Forum",
+          "index": 19,
+          "dateAdded": 1608280673000000,
+          "lastModified": 1659590912000000,
+          "id": 427,
+          "typeCode": 1,
+          "iconUri": "https://aws1.discourse-cdn.com/business5/uploads/rust_lang/optimized/2X/8/83e41956eccfd67ad6ff76f15a2c22e58db31d4f_2_180x180.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://users.rust-lang.org/"
+        },
+        {
+          "guid": "6g9fOegmRrmR",
+          "title": "Introduction - The Little Book of Rust Books",
+          "index": 20,
+          "dateAdded": 1610738718000000,
+          "lastModified": 1659590912000000,
+          "id": 428,
+          "typeCode": 1,
+          "iconUri": "https://lborb.github.io/book/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://lborb.github.io/book/title-page.html#the-little-book-of-rust-books"
+        },
+        {
+          "guid": "33iG4rJhWyDR",
+          "title": "Rust Quiz #26",
+          "index": 21,
+          "dateAdded": 1611945808000000,
+          "lastModified": 1659590912000000,
+          "id": 429,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://dtolnay.github.io/rust-quiz/26"
+        },
+        {
+          "guid": "erEHxx2ja5wE",
+          "title": "Rust Foundation - Rust Foundation",
+          "index": 22,
+          "dateAdded": 1612807329000000,
+          "lastModified": 1659590912000000,
+          "id": 430,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://foundation.rust-lang.org/"
+        },
+        {
+          "guid": "Jrnw-llVReW8",
+          "title": "Rustup packages availability on x86_64-unknown-linux-gnu",
+          "index": 23,
+          "dateAdded": 1619870310000000,
+          "lastModified": 1659590912000000,
+          "id": 431,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://rust-lang.github.io/rustup-components-history/"
+        },
+        {
+          "guid": "vjRVpZGRlTLZ",
+          "title": "rust-embedded/rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust",
+          "index": 24,
+          "dateAdded": 1622315212000000,
+          "lastModified": 1659590912000000,
+          "id": 432,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials"
+        },
+        {
+          "guid": "HXyiYoFEOX0V",
+          "title": "AndrewGaspar/rust-plugin-example: An example of implementing a plugin model in Rust",
+          "index": 25,
+          "dateAdded": 1625724576000000,
+          "lastModified": 1659590912000000,
+          "id": 433,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/AndrewGaspar/rust-plugin-example"
+        },
+        {
+          "guid": "SENGfe6-RQHW",
+          "title": "rust-lang/rustc-dev-guide: A guide to how rustc works and how to contribute to it.",
+          "index": 26,
+          "dateAdded": 1631692682000000,
+          "lastModified": 1659590912000000,
+          "id": 434,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://github.com/rust-lang/rustc-dev-guide",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/rust-lang/rustc-dev-guide"
+        },
+        {
+          "guid": "B7OVHLhp8wkM",
+          "title": "About this guide - Guide to Rustc Development",
+          "index": 27,
+          "dateAdded": 1631696599000000,
+          "lastModified": 1659590912000000,
+          "id": 435,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://rustc-dev-guide.rust-lang.org/",
+          "type": "text/x-moz-place",
+          "uri": "https://rustc-dev-guide.rust-lang.org/"
+        },
+        {
+          "guid": "Q6ee7hcRpLbw",
+          "title": "Rustup packages availability on x86_64-unknown-linux-gnu",
+          "index": 28,
+          "dateAdded": 1633588880000000,
+          "lastModified": 1659590912000000,
+          "id": 436,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://rust-lang.github.io/rustup-components-history/"
+        },
+        {
+          "guid": "PzXf-UcYXEo-",
+          "title": "Anatomy of a Terminal Emulator :: poor.dev",
+          "index": 29,
+          "dateAdded": 1636961090000000,
+          "lastModified": 1659590912000000,
+          "id": 437,
+          "typeCode": 1,
+          "iconUri": "fake-favicon-uri:https://www.poor.dev/blog/terminal-anatomy/",
+          "type": "text/x-moz-place",
+          "uri": "https://www.poor.dev/blog/terminal-anatomy/"
+        },
+        {
+          "guid": "pB4oF49UFBD_",
+          "title": "High Assurance Rust - High Assurance Rust: Developing Secure and Robust Software",
+          "index": 30,
+          "dateAdded": 1648579709951000,
+          "lastModified": 1650186171000000,
+          "id": 495,
+          "typeCode": 1,
+          "iconUri": "https://highassurance.rs/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://highassurance.rs/landing.html"
+        },
+        {
+          "guid": "6CTph0JN_szy",
+          "title": "Comprehensive Rust 🦀",
+          "index": 31,
+          "dateAdded": 1673271949919000,
+          "lastModified": 1673271957690000,
+          "id": 588,
+          "typeCode": 1,
+          "iconUri": "https://google.github.io/comprehensive-rust/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://google.github.io/comprehensive-rust/android/aidl/deploy.html"
+        }
+      ]
+    },
+    {
+      "guid": "VKQfMGiiZ_QB",
+      "title": "SBCs",
+      "index": 30,
+      "dateAdded": 1681457407679000,
+      "lastModified": 1681457440034000,
+      "id": 651,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "V0N6atNggcqc",
+          "title": "uConsole Kit RPI-CM4 Lite | ClockworkPi",
+          "index": 0,
+          "dateAdded": 1681457369132000,
+          "lastModified": 1681457440034000,
+          "id": 650,
+          "typeCode": 1,
+          "iconUri": "https://static.wixstatic.com/media/3833f7_5ae335525d1346d3b9f1e8c0f08ba3fe%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3833f7_5ae335525d1346d3b9f1e8c0f08ba3fe%7Emv2.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.clockworkpi.com/product-page/uconsole-kit-rpi-cm4-lite"
+        }
+      ]
+    },
+    {
+      "guid": "ZyMrFT7Zhm9e",
+      "title": "Scheme",
+      "index": 31,
+      "dateAdded": 1683974059949000,
+      "lastModified": 1700284651396000,
+      "id": 666,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "-ssm8NswdVwI",
+          "title": "The CHICKEN User's Manual - The CHICKEN Scheme wiki",
+          "index": 0,
+          "dateAdded": 1683974073109000,
+          "lastModified": 1683974073109000,
+          "id": 667,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://wiki.call-cc.org/man/5/The%20User%27s%20Manual"
+        },
+        {
+          "guid": "nmLq33x7IAnd",
+          "title": "The Scheme Programming Language, 4th Edition",
+          "index": 1,
+          "dateAdded": 1684302579383000,
+          "lastModified": 1684302579383000,
+          "id": 671,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.scheme.com/tspl4/"
+        },
+        {
+          "guid": "CndpAnXlFeQ2",
+          "title": "CSE 341 -- Scheme Basics",
+          "index": 2,
+          "dateAdded": 1684303662214000,
+          "lastModified": 1684303662214000,
+          "id": 672,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://courses.cs.washington.edu/courses/cse341/03wi/scheme/basics.html"
+        },
+        {
+          "guid": "k3xswrFlE6Xi",
+          "title": "Beautiful Racket by Matthew Butterick",
+          "index": 3,
+          "dateAdded": 1684347600195000,
+          "lastModified": 1684347600195000,
+          "id": 673,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://beautifulracket.com/#start"
+        },
+        {
+          "guid": "4q1djyW_-QwT",
+          "title": "r7rs.pdf",
+          "index": 4,
+          "dateAdded": 1684485495509000,
+          "lastModified": 1684485495509000,
+          "id": 674,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://small.r7rs.org/attachment/r7rs.pdf"
+        },
+        {
+          "guid": "OuYHSqrlbvIs",
+          "title": "R5RS",
+          "index": 5,
+          "dateAdded": 1684489074004000,
+          "lastModified": 1684489083470000,
+          "id": 676,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/"
+        },
+        {
+          "guid": "-7zKbA1KQulQ",
+          "title": "Write Yourself a Scheme in 48 Hours - Wikibooks, open books for an open world",
+          "index": 6,
+          "dateAdded": 1684506102867000,
+          "lastModified": 1684506102867000,
+          "id": 677,
+          "typeCode": 1,
+          "iconUri": "https://en.wikibooks.org/static/favicon/wikibooks.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours"
+        },
+        {
+          "guid": "kmZxcTyx52qQ",
+          "title": "Understanding the yin-yang puzzle | Surely I Am Joking",
+          "index": 7,
+          "dateAdded": 1685435608445000,
+          "lastModified": 1685435608445000,
+          "id": 682,
+          "typeCode": 1,
+          "iconUri": "https://web.archive.org/web/20140129194441im_/http://0.gravatar.com/blavatar/cce23a73bcff07af90cecf49da0458a5?s=114",
+          "type": "text/x-moz-place",
+          "uri": "https://web.archive.org/web/20140129194441/http://yinwang0.wordpress.com/2012/07/27/yin-yang-puzzle"
+        },
+        {
+          "guid": "lN8cIF0nvXEa",
+          "title": "CHICKEN internals: the garbage collector | More magic",
+          "index": 8,
+          "dateAdded": 1685638467071000,
+          "lastModified": 1685638467071000,
+          "id": 686,
+          "typeCode": 1,
+          "iconUri": "https://www.more-magic.net/pics/divine-lambda.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.more-magic.net/posts/internals-gc.html"
+        },
+        {
+          "guid": "bUL2SFv6uT5e",
+          "title": "Cheney's algorithm - Wikipedia",
+          "index": 9,
+          "dateAdded": 1685856006626000,
+          "lastModified": 1685856006626000,
+          "id": 688,
+          "typeCode": 1,
+          "iconUri": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+          "type": "text/x-moz-place",
+          "uri": "https://en.wikipedia.org/wiki/Cheney%27s_algorithm"
+        },
+        {
+          "guid": "_p1TO7IyNFdP",
+          "title": "rgherdt/scheme-lsp-server: An LSP server for Scheme. - scheme-lsp-server - Codeberg.org",
+          "index": 10,
+          "dateAdded": 1700162715826000,
+          "lastModified": 1700162715826000,
+          "id": 737,
+          "typeCode": 1,
+          "iconUri": "https://codeberg.org/assets/img/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://codeberg.org/rgherdt/scheme-lsp-server"
+        },
+        {
+          "guid": "85AWANhk89LE",
+          "title": "Top (Guile Reference Manual)",
+          "index": 11,
+          "dateAdded": 1700251902055000,
+          "lastModified": 1700251902055000,
+          "id": 739,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.gnu.org/software/guile/manual/html_node/index.html"
+        },
+        {
+          "guid": "9lkJN2npMkTr",
+          "title": "The Scheme Cookbook",
+          "index": 12,
+          "dateAdded": 1700284628161000,
+          "lastModified": 1700284628161000,
+          "id": 740,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://cookbook.scheme.org/"
+        }
+      ]
+    },
+    {
+      "guid": "Yk_PAlOtqE1C",
+      "title": "Security",
+      "index": 32,
+      "dateAdded": 1678621258407000,
+      "lastModified": 1679207446070000,
+      "id": 599,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "OrDx-HUIFVd0",
+          "title": "Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers",
+          "index": 0,
+          "dateAdded": 1678621281121000,
+          "lastModified": 1678621281121000,
+          "id": 600,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.exploit-db.com/"
+        },
+        {
+          "guid": "Rb_YGtX5p3xa",
+          "title": "alanvivona/pwnshop: Exploit Development, Reverse Engineering & Cryptography",
+          "index": 1,
+          "dateAdded": 1678621293680000,
+          "lastModified": 1678621293680000,
+          "id": 601,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/alanvivona/pwnshop"
+        },
+        {
+          "guid": "xOTVkOYHEDzW",
+          "title": "Introduction - The Official Radare2 Book",
+          "index": 2,
+          "dateAdded": 1678621316228000,
+          "lastModified": 1678621316228000,
+          "id": 602,
+          "typeCode": 1,
+          "iconUri": "https://book.rada.re/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://book.rada.re/"
+        },
+        {
+          "guid": "qWdMquhcS8E9",
+          "title": "wtsxDev/reverse-engineering: List of awesome reverse engineering resources",
+          "index": 3,
+          "dateAdded": 1679207405177000,
+          "lastModified": 1679207405177000,
+          "id": 605,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/wtsxDev/reverse-engineering"
+        }
+      ]
+    },
+    {
+      "guid": "2FSuujZH_nb7",
+      "title": "Tmux",
+      "index": 33,
+      "dateAdded": 1672075173947000,
+      "lastModified": 1672075212851000,
+      "id": 576,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "h6n-eZQhmIUu",
+          "title": "tmux-plugins/list: A list of tmux plugins.",
+          "index": 0,
+          "dateAdded": 1672075190487000,
+          "lastModified": 1672075190487000,
+          "id": 577,
+          "typeCode": 1,
+          "iconUri": "https://github.com/fluidicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/tmux-plugins/list"
+        },
+        {
+          "guid": "DF4RKyTrkcoc",
+          "title": "rothgar/awesome-tmux: A list of awesome resources for tmux",
+          "index": 1,
+          "dateAdded": 1672075212851000,
+          "lastModified": 1672075212851000,
+          "id": 578,
+          "typeCode": 1,
+          "iconUri": "https://github.githubassets.com/favicons/favicon.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/rothgar/awesome-tmux#miscellaneous"
+        }
+      ]
+    },
+    {
+      "guid": "26VXtI789KOu",
+      "title": "Tools",
+      "index": 34,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1685217467789000,
+      "id": 438,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "EwFalEjwXWAj",
+          "title": "Convert UTF8 to Hexadecimal - Online UTF8 Tools",
+          "index": 0,
+          "dateAdded": 1554235474000000,
+          "lastModified": 1659590912000000,
+          "id": 439,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://onlineutf8tools.com/convert-utf8-to-hexadecimal"
+        },
+        {
+          "guid": "Uy5v7YOwdsqz",
+          "title": "Programming Problems and Competitions :: HackerRank",
+          "index": 1,
+          "dateAdded": 1550405878000000,
+          "lastModified": 1659590912000000,
+          "id": 440,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.hackerrank.com/domains"
+        },
+        {
+          "guid": "5-OmyuraX31Y",
+          "title": "CTF 101",
+          "index": 2,
+          "dateAdded": 1555101907000000,
+          "lastModified": 1659590912000000,
+          "id": 441,
+          "typeCode": 1,
+          "iconUri": "https://ctf101.org/img/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://ctf101.org/"
+        },
+        {
+          "guid": "ONXkPUBB-TIH",
+          "title": "Dashboard | HackerRank",
+          "index": 3,
+          "dateAdded": 1566046345000000,
+          "lastModified": 1659590912000000,
+          "id": 442,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.hackerrank.com/dashboard"
+        },
+        {
+          "guid": "1mpA0fWGACzC",
+          "title": "Личный сервер shadowsocks за 10 минут без затрат / Хабр",
+          "index": 4,
+          "dateAdded": 1647693440485000,
+          "lastModified": 1650186171000000,
+          "id": 490,
+          "typeCode": 1,
+          "iconUri": "https://assets.habr.com/habr-web/img/favicons/apple-touch-icon-256.png",
+          "type": "text/x-moz-place",
+          "uri": "https://habr.com/ru/post/555768/"
+        },
+        {
+          "guid": "8r5BRNA8Nn9A",
+          "title": "StackBlitz | Instant Dev Environments | Click. Code. Done.",
+          "index": 5,
+          "dateAdded": 1668594130035000,
+          "lastModified": 1668594130035000,
+          "id": 552,
+          "typeCode": 1,
+          "iconUri": "https://c.staticblitz.com/assets/pwa-icon-f559737e5eae9b3544e5cc1291118bf758ee20873d496f1ce2052859fb3b72d6.png",
+          "type": "text/x-moz-place",
+          "uri": "https://stackblitz.com/"
+        },
+        {
+          "guid": "zl8jdNULLJER",
+          "title": "Most active GitHub users",
+          "index": 6,
+          "dateAdded": 1669805008342000,
+          "lastModified": 1669805008342000,
+          "id": 559,
+          "typeCode": 1,
+          "iconUri": "https://committers.top/images/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://committers.top/"
+        },
+        {
+          "guid": "oCN7x41pzyQE",
+          "title": "The GNU Awk User’s Guide",
+          "index": 7,
+          "dateAdded": 1672906359110000,
+          "lastModified": 1672906359110000,
+          "id": 580,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.gnu.org/software/gawk/manual/gawk.html#History"
+        },
+        {
+          "guid": "Ef9Q80a-PmLQ",
+          "title": "Base64-decode a String – Online String Tools",
+          "index": 8,
+          "dateAdded": 1679551770688000,
+          "lastModified": 1679551770688000,
+          "id": 608,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://onlinestringtools.com/convert-base64-to-string"
+        },
+        {
+          "guid": "23b67lb0FFCo",
+          "title": "Programming Fonts - Test Drive",
+          "index": 9,
+          "dateAdded": 1680468189608000,
+          "lastModified": 1680468189608000,
+          "id": 616,
+          "typeCode": 1,
+          "iconUri": "https://www.programmingfonts.org/favicon.png",
+          "type": "text/x-moz-place",
+          "uri": "https://www.programmingfonts.org/#terminus"
+        },
+        {
+          "guid": "r22SBI1YRyC1",
+          "title": "AsciiDoc",
+          "index": 10,
+          "dateAdded": 1681282850328000,
+          "lastModified": 1681282850328000,
+          "id": 644,
+          "typeCode": 1,
+          "iconUri": "https://asciidoc.org/assets/img/asciidoc-logo.svg",
+          "type": "text/x-moz-place",
+          "uri": "https://asciidoc.org/"
+        },
+        {
+          "guid": "C22wkzOT3Rkz",
+          "title": "termbin.com - terminal pastebin",
+          "index": 11,
+          "dateAdded": 1681760281300000,
+          "lastModified": 1681796919000000,
+          "id": 655,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://termbin.com/"
+        },
+        {
+          "guid": "G8gas4ZpEaIf",
+          "title": "OpenGameArt.org",
+          "index": 12,
+          "dateAdded": 1685217467789000,
+          "lastModified": 1685217467789000,
+          "id": 679,
+          "typeCode": 1,
+          "iconUri": "https://opengameart.org/sites/all/themes/oga/opengameart2_favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://opengameart.org/"
+        }
+      ]
+    },
+    {
+      "guid": "_08QGzvs1ifP",
+      "title": "WASM",
+      "index": 35,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 444,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "vtBJJ3y12ELd",
+          "title": "Understanding WebAssembly text format - WebAssembly | MDN",
+          "index": 0,
+          "dateAdded": 1597739357000000,
+          "lastModified": 1659590912000000,
+          "id": 445,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format"
+        },
+        {
+          "guid": "71ompFWGk5vb",
+          "title": "WebAssembly/wabt: The WebAssembly Binary Toolkit",
+          "index": 1,
+          "dateAdded": 1597739368000000,
+          "lastModified": 1659590912000000,
+          "id": 446,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/webassembly/wabt"
+        },
+        {
+          "guid": "vsj4_3xb7Seh",
+          "title": "spec/test/core at master · WebAssembly/spec",
+          "index": 2,
+          "dateAdded": 1597739406000000,
+          "lastModified": 1659590912000000,
+          "id": 447,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://github.com/WebAssembly/spec/tree/master/test/core"
+        },
+        {
+          "guid": "7kqIkj9Zv6i-",
+          "title": "Text Format — WebAssembly 1.1",
+          "index": 3,
+          "dateAdded": 1597741672000000,
+          "lastModified": 1659590912000000,
+          "id": 448,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://webassembly.github.io/spec/core/text/index.html"
+        }
+      ]
+    },
+    {
+      "guid": "azZLL6vsE_Fa",
+      "title": "X11",
+      "index": 36,
+      "dateAdded": 1681325598252000,
+      "lastModified": 1681325630062000,
+      "id": 648,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "Q31WfnsqQ79_",
+          "title": "XCB: XCB API",
+          "index": 0,
+          "dateAdded": 1681306004479000,
+          "lastModified": 1681325618216000,
+          "id": 646,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://xcb.freedesktop.org/manual/group__XCB____API.html"
+        },
+        {
+          "guid": "uTLCQCMcEvxn",
+          "title": "Xlib - C Language X Interface",
+          "index": 1,
+          "dateAdded": 1681305668889000,
+          "lastModified": 1681325624568000,
+          "id": 645,
+          "typeCode": 1,
+          "iconUri": "https://x.org/releases/current/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://x.org/releases/current/doc/libX11/libX11/libX11.html"
+        },
+        {
+          "guid": "5nZHx4x-K9X7",
+          "title": "basicwindowsanddrawing",
+          "index": 2,
+          "dateAdded": 1681325584794000,
+          "lastModified": 1681325630062000,
+          "id": 647,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://xcb.freedesktop.org/tutorial/basicwindowsanddrawing/"
+        }
+      ]
+    },
+    {
+      "guid": "um0nV8QDS9fX",
+      "title": "Zig",
+      "index": 37,
+      "dateAdded": 1619861142000000,
+      "lastModified": 1659590912000000,
+      "id": 449,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "guid": "ss43maKJk2v7",
+          "title": "Documentation - The Zig Programming Language",
+          "index": 0,
+          "dateAdded": 1596117325000000,
+          "lastModified": 1659590912000000,
+          "id": 450,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ziglang.org/documentation/master/"
+        }
+      ]
+    }
+  ]
+}
